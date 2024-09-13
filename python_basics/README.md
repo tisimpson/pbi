@@ -8,5 +8,3 @@ In many of the notebooks we use the text of Lewis Carrolls' 1865 novel "Alice's 
 
 As a final note, this mini-course is optional and non-assessed, it is simply there to help you start your journeys to becoming more confident and capable programming in Python. The course does not specifically deal with and Biology oriented material it focusses squarely on developing your knowledge of the language itself.
 
-These were prepared by Dr. Magdalena Navarro when they were supporting teaching on Bio1.
-
