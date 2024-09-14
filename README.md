@@ -5,8 +5,8 @@
 
 Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
-- [Course Website](https://opencourse.inf.ed.ac.uk/bpi/)
 - [GitHub Cloning Link](https://github.com/tisimpson/pbi.git)
+- [GitHub Classroom Link](https://classroom.github.com/classrooms/181474558-programming-for-biomedical-informatics-infr11260)
 
 This repository contains course materials including code and data.
 
