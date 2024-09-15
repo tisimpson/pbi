@@ -1,4 +1,4 @@
-## Programming for Biomedical Informatics (INFR11160)
+## Programming for Biomedical Informatics (INFR11260)
 #### School of Informatics, The University of Edinburgh (2024)
 
 ### Course Lecturer: Prof. Ian Simpson
