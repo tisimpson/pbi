@@ -11,10 +11,14 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 This repository contains course materials including code and data.
 
-Please note that all course discussion takes place on a new system called EdStem that you can access from [the course LEARN page](https://www.learn.ed.ac.uk).
+### Coding Environment
 
-We have also prepared a [Python introductory mini course](https://github.com/tisimpson/pbi/tree/main/python_basics) in case this is useful to people. This uses Python notebooks that you can use on your local machine if you have Python and Jupyter installed or you can import this GitHub directly into the University's [Noteable](https://noteable.edina.ac.uk/launch) service and run them from there. We will also show you how to woprk with notebooks during the course.
+There are a few choices for how you might want to do your coding during the course. Please do ask in the discussion boards if you need any help setting these up.
 
-There is a good guide to installing Jupyter [here](https://jupyter.org/install).
+- [Noteable]((https://noteable.edina.ac.uk/launch) - The simplest, and one that requires very little setup. This is the University JupyterLab instance you can pull this GitHub directly in and start coding straight away
+- [Local Jupyter] - you can install a version of Jupyter locally using systems like miniconda and Anaconda. There is a good guide to installing Jupyter [here](https://jupyter.org/install).
+- [VisualStudioCode](https://code.visualstudio.com) - This is a free open-source coding IDE from Microsoft. It's excellent and what I would recommend, not least because it has a large number of extensions that make life easier especially for GitHub and Co-Pilot.
 
-Note that materials will be added to this GitHub as the course progresses.
+We have prepared a [Python introductory mini course](https://github.com/tisimpson/pbi/tree/main/python_basics) in case this is useful to people to brush up on some Python basics.
+
+*Note that materials will be added to this GitHub as the course progresses*
