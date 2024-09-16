@@ -17,7 +17,7 @@ Lectures all take place in the G.07 Meadows Lecture Theatre - Doorway 4 in the M
 - Tuesdays 11:10 - 12:00
 - Thursdays 13:10 - 14:00
 
-The timetable is being updated to refelect the fact that lectures will be in weeks1-4 and 5-11. **NB** *no lectues in week 5*.
+The timetable is being updated to refelect the fact that lectures will be in weeks1-4 and 6-11. **NB** *no lectues in week 5*.
 
 ### Coding Environment
 
