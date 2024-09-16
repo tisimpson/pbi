@@ -1,7 +1,7 @@
 ## Slides from the lectures are available through the links below
 
 ### Lectures
-- Lecture 1 - 
+- Lecture 1 - [Welcome & Getting Started](lecture_slides/pbi_lecture1_2024.pdf)
 - Lecture 2 - 
 - Lecture 3 - 
 - Lecture 4 - 
