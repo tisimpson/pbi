@@ -11,6 +11,14 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 This repository contains course materials including code and data.
 
+### Lectures
+Lectures all take place in the G.07 Meadows Lecture Theatre - Doorway 4 in the Medical School at Teviot ([map](https://www.google.com/maps/place/55°56'41.8%22N+3°11'25.3%22W/@55.944955,-3.1929309,17z/data=!3m1!4b1!4m4!3m3!8m2!3d55.944955!4d-3.190356?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)).
+
+- Tuesdays 11:10 - 12:00
+- Thursdays 13:10 - 14:00
+
+The timetable is being updated to refelect the fact that lectures will be in weeks1-4 and 5-11. **NB** *no lectues in week 5*.
+
 ### Coding Environment
 
 There are a few choices for how you might want to do your coding during the course. Please do ask in the discussion boards if you need any help setting these up.
