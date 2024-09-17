@@ -5,6 +5,8 @@
 
 Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
+![course banner](/resources/pbi_banner.jpg)
+
 - [Course GitHub Repository Cloning Link](https://github.com/tisimpson/pbi.git)
 - [GitHub Classroom Assignments](https://github.com/biomedical-informatics)
 - [Course Discussion Boards](https://edstem.org/eu/courses/1512/discussion/)
