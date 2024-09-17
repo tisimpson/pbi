@@ -1,7 +1,7 @@
 ## Course videos available on YouTube
 
 ### Lectures
-- Lecture 1 - 
+- Lecture 1 - [Welcome & Getting Started](https://youtu.be/RIo4sGYZ_pg)
 - Lecture 2 - 
 - Lecture 3 - 
 - Lecture 4 - 
