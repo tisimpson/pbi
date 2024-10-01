@@ -1,0 +1,1 @@
+Assignment solutions will be posted here once the assignments have closed, with the exception of week1 where we were simply collecting GitHub account information and familiarising ourselves with GitHub Classroom.
