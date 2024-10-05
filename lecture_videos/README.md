@@ -5,7 +5,7 @@
 - Week 2 - [Introduction to the Biomedical Dataverse](https://youtu.be/7WLE6iU4kq0) (lecture 3) and [Bulk FTP Download & APIs](https://youtu.be/HzQJSd0trMA) (lecture 4)
 - Week 3 - [Mapping & Harmonisation](https://youtu.be/k02mj8ujzCo) (lecture 5) and [Data Integration & Analysis](https://youtu.be/MnLQXnEDNiA) (lecture 6)
 - Week 4 -
-- Week 5 -
+- Week 5 - October Break - No lectures or Assignment this week
 - Week 6 -
 - Week 7 -
 - Week 8 -
