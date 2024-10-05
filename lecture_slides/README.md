@@ -5,7 +5,7 @@
 - Week 2 - [Introduction to the Biomedical Dataverse](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture3_2024.pdf) (lecture 3) and [Bulk FTP Download & APIs](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture4_2024.pdf) (lecture 4)
 - Week 3 - [Mapping & Harmonisation](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture5_2024.pdf) (lecture 5) and [Data Integration & Summary Analysis](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture6_2024.pdf) (lecture 6)
 - Week 4 -
-- Week 5 -
+- Week 5 - October Break - No lectures or assignment this week
 - Week 6 -
 - Week 7 -
 - Week 8 -
