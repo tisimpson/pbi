@@ -6,7 +6,7 @@
 - Week 3 - [Mapping & Harmonisation](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture5_2024.pdf) (lecture 5) and [Data Integration & Summary Analysis](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture6_2024.pdf) (lecture 6)
 - Week 4 - [Biomedical Evidence](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture7_2024.pdf) (lecture 7) and [Mining & Analysing the Biomedical Literature](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture8_2024.pdf) (lecture 8)
 - Week 5 - October Break - No lectures or assignment this week
-- Week 6 -
+- Week 6 - [Measuring Gene Expression](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture9_2024.pdf) (lecture 9)
 - Week 7 -
 - Week 8 -
 - Week 9 -
