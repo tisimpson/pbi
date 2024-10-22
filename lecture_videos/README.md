@@ -6,7 +6,7 @@
 - Week 3 - [Mapping & Harmonisation](https://youtu.be/k02mj8ujzCo) (lecture 5) and [Data Integration & Analysis](https://youtu.be/MnLQXnEDNiA) (lecture 6)
 - Week 4 - [Biomedical Evidence](https://youtu.be/7HpsMi2hKck) (lecture 7) and [Mining & Analysing the Biomedical Literature](https://youtu.be/nPjq1-Vnm1Q) (lecture 8)
 - Week 5 - October Break - No lectures or Assignment this week
-- Week 6 -
+- Week 6 - [Measuring Gene Expression](https://youtu.be/CPuo3ShMy5E) (lecture 9)
 - Week 7 -
 - Week 8 -
 - Week 9 -
