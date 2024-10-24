@@ -5,7 +5,7 @@
 - Week 3 - [introduction](https://github.com/tisimpson/pbi/blob/main/notebooks/week3/week3_lecture6_introduction.ipynb), [notebook 1](https://github.com/tisimpson/pbi/blob/main/notebooks/week3/week3_lecture6_notebook1.ipynb), [notebook 2](https://github.com/tisimpson/pbi/blob/main/notebooks/week3/week3_lecture6_notebook2.ipynb), [worked example](https://github.com/tisimpson/pbi/blob/main/notebooks/week3/week3_lecture6_notebook2_workedexample.ipynb), [snippets in the week folder](https://github.com/tisimpson/pbi/tree/main/notebooks/week3)
 - Week 4 - [snippets in the week folder](https://github.com/tisimpson/pbi/tree/main/notebooks/week4), [notebook skeleton](https://github.com/tisimpson/pbi/blob/main/notebooks/week4/week4_lecture8_notebook1.ipynb), [notebook completed](https://github.com/tisimpson/pbi/blob/main/notebooks/week4/week4_lecture8_notebook1_completed.ipynb)
 - Week 5 - mid-semester break
-- Week 6 - [notebook 1](https://github.com/tisimpson/pbi/blob/main/notebooks/week6/week6_lecture10_notebook1.ipynb), [notebook 2](week6_lecture10_notebook2.ipynb)
+- Week 6 - [notebook 1](https://github.com/tisimpson/pbi/blob/main/notebooks/week6/week6_lecture10_notebook1.ipynb), [notebook 2](https://github.com/tisimpson/pbi/blob/main/notebooks/week6/week6_lecture10_notebook2.ipynb)
 - Week 7 -
 - Week 8 -
 - Week 9 -
