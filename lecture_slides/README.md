@@ -8,7 +8,7 @@
 - Week 5 - October Break - No lectures or assignment this week
 - Week 6 - [Measuring Gene Expression](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture9_2024.pdf) (lecture 9) and [Differential Gene Expression Analysis](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture10_2024.pdf) (lecture 10)
 - Week 7 - [Biological Networks](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture11_2024.pdf) (lecture 11) and [Network Construction Techniques](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture12_2024.pdf) (lecture 12)
-- Week 8 -
+- Week 8 - [Essential Network Methods](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture13_2024.pdf) (lecture 13)
 - Week 9 -
 - Week 10 - 
 - Week 11 - 
