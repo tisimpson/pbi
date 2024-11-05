@@ -7,7 +7,7 @@
 - Week 4 - [Biomedical Evidence](https://youtu.be/7HpsMi2hKck) (lecture 7) and [Mining & Analysing the Biomedical Literature](https://youtu.be/nPjq1-Vnm1Q) (lecture 8)
 - Week 5 - October Break - No lectures or Assignment this week
 - Week 6 - [Measuring Gene Expression](https://youtu.be/CPuo3ShMy5E) (lecture 9) and [Differential Gene Expression Analysis](https://youtu.be/jQbHn5Ix8cA) (lecture 10)
-- Week 7 -
+- Week 7 - [Biological Networks](https://youtu.be/nYr_eG5fxmk) (lecture 11) and [Network Construction Techniques](https://youtu.be/WrkS-qr5U6s) (lecture 12)
 - Week 8 -
 - Week 9 -
 - Week 10 -
