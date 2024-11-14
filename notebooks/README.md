@@ -8,6 +8,6 @@
 - Week 6 - [notebook 1](https://github.com/tisimpson/pbi/blob/main/notebooks/week6/week6_lecture10_notebook1.ipynb), [notebook 2](https://github.com/tisimpson/pbi/blob/main/notebooks/week6/week6_lecture10_notebook2.ipynb)
 - Week 7 - [snippet in the week folder](https://github.com/tisimpson/pbi/tree/main/notebooks/week7)
 - Week 8 - [notebook](https://github.com/tisimpson/pbi/blob/main/notebooks/week8/week8_lecture14_notebook1.ipynb) and [executed version](https://github.com/tisimpson/pbi/blob/main/notebooks/week8/week8_lecture14_notebook2.ipynb)
-- Week 9 -
+- Week 9 - [snippet in the week folder](https://github.com/tisimpson/pbi/tree/main/notebooks/week9) and [notebook](https://github.com/tisimpson/pbi/blob/main/notebooks/week8/week8_lecture16_notebook1.ipynb) and [executed version](https://github.com/tisimpson/pbi/blob/main/notebooks/week8/week8_lecture16_notebook2.ipynb)
 - Week 10 -
 - Week 11 - 
