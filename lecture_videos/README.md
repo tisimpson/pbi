@@ -9,5 +9,5 @@
 - Week 6 - [Measuring Gene Expression](https://youtu.be/CPuo3ShMy5E) (lecture 9) and [Differential Gene Expression Analysis](https://youtu.be/jQbHn5Ix8cA) (lecture 10)
 - Week 7 - [Biological Networks](https://youtu.be/nYr_eG5fxmk) (lecture 11) and [Network Construction Techniques](https://youtu.be/WrkS-qr5U6s) (lecture 12)
 - Week 8 - [Essential Network Methods](https://youtu.be/1Xo76GvBvuU) (lecture 13) and [Network Analysis in Practice](https://youtu.be/AUCcmBDhERk) (lecture 14)
-- Week 9 - [Structuring Biomedical Data with Ontologies](https://youtu.be/6Ldna2tUCEY) (lecture 15)
+- Week 9 - [Structuring Biomedical Data with Ontologies](https://youtu.be/6Ldna2tUCEY) (lecture 15) and [Working with Ontologies](https://youtu.be/WY-wMLe0aQk) (lecture 16)
 - Week 10 -
