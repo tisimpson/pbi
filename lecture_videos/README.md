@@ -10,4 +10,4 @@
 - Week 7 - [Biological Networks](https://youtu.be/nYr_eG5fxmk) (lecture 11) and [Network Construction Techniques](https://youtu.be/WrkS-qr5U6s) (lecture 12)
 - Week 8 - [Essential Network Methods](https://youtu.be/1Xo76GvBvuU) (lecture 13) and [Network Analysis in Practice](https://youtu.be/AUCcmBDhERk) (lecture 14)
 - Week 9 - [Structuring Biomedical Data with Ontologies](https://youtu.be/6Ldna2tUCEY) (lecture 15) and [Working with Ontologies](https://youtu.be/8QER7Na8pf4) (lecture 16)
-- Week 10 - [Working with Multiple Data Modalities](https://youtu.be/y08sCoChWsI) (lecture 17)
+- Week 10 - [Working with Multiple Data Modalities](https://youtu.be/y08sCoChWsI) (lecture 17) and [Revision Session 1 - Course Lecture Overview & Short Answer Questions](https://youtu.be/9GeUiBT32b8) (lecture 18)
