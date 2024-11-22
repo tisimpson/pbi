@@ -11,4 +11,4 @@
 - Week 8 - [Essential Network Methods](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture13_2024.pdf) (lecture 13) and [Network Analysis in Practice](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture14_2024.pdf) (lecture 14)
 - Week 9 - [Structuring Biomedical Data with Ontologies](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture15_2024.pdf) (lecture 15) and [Working with Ontologies](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture16_2024.pdf) (lecture 16)
 - Week 10 - [Working with Multiple Data Modalities](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture17_2024.pdf) (lecture 17) and [Revision Session 1](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture18_2024.pdf) (lecture 18)
-- Week 11 - Revision Session 2 (lecture 19)
+- Week 11 - [Revision Session 2](https://github.com/tisimpson/pbi/blob/main/lecture_slides/pbi_lecture19_2024.pdf) (lecture 19)
